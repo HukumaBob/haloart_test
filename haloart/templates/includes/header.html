@@ -1,0 +1,16 @@
+{% load static %}
+
+<nav class="navbar navbar-light" style="background-color: lightskyblue">
+  <div class="container">
+    <a class="navbar-brand" href="{% url 'shopping_list:product_list' %}">
+      <img
+        src="{% static 'img/logo.svg' %}"
+        width="30"
+        height="30"
+        class="d-inline-block align-top"
+        alt=""
+      />
+      Мой список покупок
+    </a>
+  </div>
+</nav>
