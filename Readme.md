@@ -1,5 +1,3 @@
-![[graph.jpg | 400]]
-
 # Проект списка покупок
 
 ## Описание
@@ -10,7 +8,7 @@
 
 1. Клонируйте репозиторий:
 
-git clone https://github.com/yourusername/shopping_list.git
+git clone https://github.com/HukumaBob/haloart_test
 
 2. Перейдите в директорию проекта:
 
